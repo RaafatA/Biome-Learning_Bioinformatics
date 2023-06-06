@@ -4,6 +4,7 @@
 Item | link 
 -----|------ 
 lntro to Bioinformatics  | - [يعقوب الأشهب](https://www.youtube.com/@bioinformatics357/featured) 
+Bioinformatics (Arabic) | [Bioinformatics Course](https://www.youtube.com/watch?v=GHqKnE6LL5Q&list=PLt0thylmbOcl45ysVO_z9Qw_n63pH1DpP&pp=iAQB)
 Programming (Python) | - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) - [Python Data Structures](https://www.coursera.org/learn/python-data) 
 Programming (R) | - [Intro to R for Bioinformatics Students](https://www.youtube.com/watch?v=bekFrlW0gww&list=PLlM6tIjlDu7K7VNHwFTf69SLZ8Y8HjZLh&pp=iAQB)
 Algorithms | - [Videos on algorithms & data structures for analysis of DNA sequencing data and other huge sequence collections.](https://www.youtube.com/@BenLangmead/featured) - [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science)
